@@ -4,7 +4,7 @@
 
 Task Manager is a software solution for effective team coordination. Its primary purpose is to provide administrators with a user-friendly platform for effortlessly adding team members, granting them access to task lists, enabling task editing capabilities, and generating comprehensive statistics. These statistics encompass the count of pending tasks yet to be completed and the number of tasks that have exceeded their designated deadlines.
 
-### [HyperionDev] (https://www.hyperiondev.com/portfolio/MN23110011960/) Task 17 - Capstone Project 
+### [HyperionDev](https://www.hyperiondev.com/portfolio/MN23110011960/) Task 17 - Capstone Project 
 
 #### Features
 
